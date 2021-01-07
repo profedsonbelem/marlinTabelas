@@ -1,0 +1,8 @@
+class SolicitacaoRetornoLoteMovimentacao{
+
+
+    constructor(){
+        
+    }
+
+}

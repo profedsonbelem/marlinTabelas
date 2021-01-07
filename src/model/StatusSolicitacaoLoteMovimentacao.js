@@ -1,0 +1,8 @@
+class StatusSolicitacaoLoteMovimentacao{
+
+
+    constructor(){
+        
+    }
+
+}
